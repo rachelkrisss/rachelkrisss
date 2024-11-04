@@ -5,10 +5,10 @@
 - 🌱 I’m currently learning more about Next.js and AI Usage
 - 💞️ I’m looking to collaborate on creative projects that involve web development, design, and social media strategies.
 - 📫 How to reach me:
-  https://www.instagram.com/rrachel.krishna/
-  https://www.threads.net/@rrachel.krishna
-  https://www.facebook.com/rachelkrisss
-  https://www.behance.net/rachelkrisss
+* **https://www.instagram.com/rrachel.krishna/
+* **https://www.threads.net/@rrachel.krishna
+* **https://www.facebook.com/rachelkrisss
+* **https://www.behance.net/rachelkrisss
   
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I'm a secret bookworm and can often be found with a book in hand.
